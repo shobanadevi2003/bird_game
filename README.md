@@ -1,0 +1,1 @@
+The code creates a simple Flappy Bird game using Java's Swing library. It includes classes for the bird and pipes, handles game logic, and manages graphics rendering. Key packages used are javax.swing for GUI, java.awt for drawing graphics, and java.util for handling collections (like ArrayList) and random numbers.
